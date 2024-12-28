@@ -5,6 +5,7 @@ import image1 from './media/image1.jpg';
 import image2 from './media/image2.jpg';
 import image3 from './media/image3.jpg';
 import imagelogo1 from './media/imagelogo1.jpg';
+import imagemesto1 from './media/imagemesto1.jpg';
 import './Main.css';
 import Otsiv from "./comp/Otsiv";
 
@@ -79,6 +80,7 @@ info@architecturecomfort.ru)
 Пн - Пт: 10:00 - 19:00 <div></div>
 Сб: 10:00 - 16:00 <div></div>
 Вс: выходной</i></div>
+<img className="img" src={imagemesto1}></img>
     </>
   );
 }
