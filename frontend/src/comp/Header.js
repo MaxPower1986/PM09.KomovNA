@@ -9,14 +9,13 @@ function Header() {
         
         <div >
            
-            <Link  to="/">Главная</Link>
-            <Link  to="/page">Личный кабинет</Link>
+            <Link style={{ padding: "50px" }}  to="/">Главная</Link>
+            
 
-            <Link  to="/info">Услуги</Link>
+            <Link style={{ padding: "50px" }}  to="/info">Услуги</Link>
             <Link style={{ padding: "50px" }} to="/Info2">Описание</Link>
             <Link style={{ padding: "50px" }} to="/otsiv">Отзывы</Link>
-            <Link style={{ padding: "50px" }} to="/reg">Зарегистрироваться</Link>
-            <Link style={{ padding: "50px" }} to="/login">Войти</Link>
+
             
         </div>
     );

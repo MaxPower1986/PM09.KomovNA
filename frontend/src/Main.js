@@ -59,6 +59,26 @@ function Main() {
         <img className="img" src={image3} style={{ width: '300px', height: "100%" }} />
       </div>
     <Otsiv></Otsiv>
+    <div><i><h1 className="red">Адрес:</h1><div>
+
+    </div>
+г. Москва, ул. Примерная д. 10 <div>
+
+</div>
+
+<h1 className="red"> Телефон: </h1>
+8 (999) 177-17-17
+<div></div>
+<h1 className="red">
+Электронная почта:</h1> <div></div>
+info@architecturecomfort.ru)
+<div></div>
+<h1 className="red">
+Часы работы:</h1> <div></div>
+
+Пн - Пт: 10:00 - 19:00 <div></div>
+Сб: 10:00 - 16:00 <div></div>
+Вс: выходной</i></div>
     </>
   );
 }
