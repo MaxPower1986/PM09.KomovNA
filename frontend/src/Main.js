@@ -4,6 +4,7 @@ import React from "react";
 import image1 from './media/image1.jpg';
 import image2 from './media/image2.jpg';
 import image3 from './media/image3.jpg';
+import imagelogo1 from './media/imagelogo1.jpg';
 import './Main.css';
 import Otsiv from "./comp/Otsiv";
 
@@ -17,7 +18,9 @@ function Main() {
 
     </div>
     
-      
+      <div>
+        <img className="img" src={imagelogo1}></img>
+      </div>
       
       <div>
         <img className="img" src={image1} style={{ width: '300px', height: "100%" }} /><br></br>

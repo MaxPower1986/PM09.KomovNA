@@ -1,9 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+
+
 function Header() {
     return (
+        
+        
         <div >
+           
             <Link  to="/">Главная</Link>
             <Link  to="/page">Личный кабинет</Link>
 
