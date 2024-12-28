@@ -15,6 +15,7 @@ function Header() {
             <Link style={{ padding: "50px" }}  to="/info">Описание компании</Link>
             <Link style={{ padding: "50px" }} to="/Info2">Услуги</Link>
             <Link style={{ padding: "50px" }} to="/otsiv">Отзывы</Link>
+            <Link style={{ padding: "50px" }} to="/info3">Калькулятор</Link>
 
             
         </div>
