@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 
 
-function Info () {
+function Info4 () {
     return (
         <> 
         <h3>Описание</h3>
@@ -49,4 +49,4 @@ function Info () {
     );
 }
 
-export default Info;
+export default Info4;
